@@ -23,7 +23,7 @@
     margin-top: 70px;
     
     padding: 15px;
-    background-color: rgb(2,128,1);
+    background-color: green;
 }
 .yellow{
     border: 1px solid yellow;
@@ -44,5 +44,5 @@
     display: inline-block;
     margin-top: 70px;
     padding: 15px;
-    background-color: rgb(255,0,2);
+    background-color: rgb(255,0,0);
 }
